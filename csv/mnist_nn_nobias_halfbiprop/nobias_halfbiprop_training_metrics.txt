@@ -1,0 +1,7 @@
+start_time: 2025-07-08 11:28:31
+end_time: 2025-07-08 11:30:50
+training_time_hours: 0.038337079419030085
+total_time_hours: 0.03843153635660807
+config: nobias_halfbiprop
+training_epochs: 50001
+batch_size: 100

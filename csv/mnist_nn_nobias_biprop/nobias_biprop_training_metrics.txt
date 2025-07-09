@@ -1,0 +1,7 @@
+start_time: 2025-07-08 11:28:26
+end_time: 2025-07-08 11:31:17
+training_time_hours: 0.047629730304082234
+total_time_hours: 0.04769387112723456
+config: nobias_biprop
+training_epochs: 50001
+batch_size: 100
