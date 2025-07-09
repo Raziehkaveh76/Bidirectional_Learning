@@ -5,7 +5,6 @@ This repository contains implementations of Bidirectional Neural Networks (ANN a
 ## Project Structure
 
 ```
-tf2_version/
 ├── csv/                           # Training and evaluation metrics
 │   ├── cnn_mnist_nobias_backprop/
 │   ├── cnn_mnist_nobias_biprop/
